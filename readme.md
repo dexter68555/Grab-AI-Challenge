@@ -10,8 +10,8 @@ This work reference on the following works.
 
 You should run the code in the following order.
 
-1. Pre-processing.ipynb
-2. Feature Engineering.ipynb
+1. Feature Engineering.ipynb
+2. Data processing.ipynb
 3. Grab AI Challenge.ipynb
 4. Get Dominant Colour of Car.ipynb
 
@@ -91,15 +91,14 @@ In fourth cell, please remove all the .cpu().numpy()
 I recommend this work to be run with powerful GPU.
 
 
-###### Pre-processing.ipynb
-
-This code pre-process the dataset and create the required folder and sub-folder.
-
-
 ###### Feature Engineering.ipynb
 
 This code perform feature engineering.
 This code will extract the bounding box from the image to reduce noise.
+
+###### Data processing.ipynb
+
+This code process the dataset and create the required folder and sub-folder.
 
 
 ###### Grab AI Challenge.ipynb
