@@ -33,18 +33,18 @@ Please make sure your workstation had internet access as Grab AI Challenge.ipynb
 This work required the following library.
 Please make sure the following library is installed.
 
-scipy
-numpy
-pandas
-os
-tarfile
-shutil
-torch
-torchvision
-time
-opencv-python (cv2)
-sklearn
-webcolors
+1. scipy
+2. numpy
+3. pandas
+4. os
+5. tarfile
+6. shutil
+7. torch
+8. torchvision
+9. time
+10. opencv-python (cv2)
+11. sklearn
+12. webcolors
 
 If you run the Grab AI Challenge.ipynb at your local workstation, please comment the following line from second cell.
 
